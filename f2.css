@@ -52,7 +52,8 @@ button {
 .clearshow {
 
     color: rgba(33, 159, 53, 1);
+      margin-top: 30px;
 
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     line-height: 14.52px;
 }
